@@ -40,9 +40,9 @@ I enjoy infrastructure-as-code, observability, and reliable CI/CD.
 </p>
 
 ## 📚 Summary Cards
-![](https://raw.githubusercontent.com/Gooozmen/Gooozmen/main/profile-summary-card-output/summary/0-profile-details.svg)
-![](https://raw.githubusercontent.com/Gooozmen/Gooozmen/main/profile-summary-card-output/summary/3-stats.svg)
-![](https://raw.githubusercontent.com/Gooozmen/Gooozmen/main/profile-summary-card-output/summary/4-productive-time.svg)
+![](https://raw.githubusercontent.com/Gooozmen/Gooozmen/main/profile-summary-card-output/tokyonight/0-profile-details.svg)
+![](https://raw.githubusercontent.com/Gooozmen/Gooozmen/main/profile-summary-card-output/tokyonight/3-stats.svg)
+![](https://raw.githubusercontent.com/Gooozmen/Gooozmen/main/profile-summary-card-output/tokyonight/4-productive-time.svg)
 
 
 ## 📌 Featured Projects
