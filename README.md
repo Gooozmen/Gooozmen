@@ -39,8 +39,8 @@ I enjoy infrastructure-as-code, observability, and reliable CI/CD.
 </p>
 
 ## 📌 Featured Projects
-[![Pinned 1](https://github-readme-stats.vercel.app/api/pin/?username=Gooozmen&repo=<repo-1>&theme=tokyonight)](https://github.com/Gooozmen/<repo-1>)
-[![Pinned 2](https://github-readme-stats.vercel.app/api/pin/?username=Gooozmen&repo=<repo-2>&theme=tokyonight)](https://github.com/Gooozmen/<repo-2>)
+## 📌 Featured Projects
+[![CourtBooker](https://github-readme-stats.vercel.app/api/pin/?username=Gooozmen&repo=courtbooker&theme=tokyonight)](https://github.com/Gooozmen/CourtBooker-Infra-Provisioning)
 
 ## 🌐 Contact
 - LinkedIn: [your-linkedin-url]
