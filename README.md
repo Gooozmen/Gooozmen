@@ -31,12 +31,19 @@ I enjoy infrastructure-as-code, observability, and reliable CI/CD.
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=Gooozmen&show_icons=true&theme=tokyonight)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gooozmen&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gooozmen&theme=tokyonight)
 
 ## 📈 Metrics Summary
 <!-- This image is auto-generated daily by GitHub Actions -->
 <p>
   <img src="./metrics.svg" alt="Metrics summary" />
 </p>
+
+## 📚 Summary Cards
+![](https://raw.githubusercontent.com/Gooozmen/Gooozmen/main/profile-summary-card-output/summary/0-profile-details.svg)
+![](https://raw.githubusercontent.com/Gooozmen/Gooozmen/main/profile-summary-card-output/summary/3-stats.svg)
+![](https://raw.githubusercontent.com/Gooozmen/Gooozmen/main/profile-summary-card-output/summary/4-productive-time.svg)
+
 
 ## 📌 Featured Projects
 [![CourtBooker](https://github-readme-stats.vercel.app/api/pin/?username=Gooozmen&repo=courtbooker&theme=tokyonight)](https://github.com/Gooozmen/CourtBooker-Infra-Provisioning)
