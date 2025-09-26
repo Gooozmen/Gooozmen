@@ -39,8 +39,12 @@ I enjoy infrastructure-as-code, observability, and reliable CI/CD.
 </p>
 
 ## 📌 Featured Projects
-## 📌 Featured Projects
 [![CourtBooker](https://github-readme-stats.vercel.app/api/pin/?username=Gooozmen&repo=courtbooker&theme=tokyonight)](https://github.com/Gooozmen/CourtBooker-Infra-Provisioning)
+[![super-memory](https://github-readme-stats.vercel.app/api/pin/?username=Gooozmen&repo=super-memory&theme=tokyonight)](https://github.com/Gooozmen/super-memory)
+[![Containers](https://github-readme-stats.vercel.app/api/pin/?username=Gooozmen&repo=Containers&theme=tokyonight)](https://github.com/Gooozmen/Containers)
+[![PowershellPlayground](https://github-readme-stats.vercel.app/api/pin/?username=Gooozmen&repo=PowershellPlayground&theme=tokyonight)](https://github.com/Gooozmen/PowershellPlayground)
+[![CourtBooker-Auth](https://github-readme-stats.vercel.app/api/pin/?username=Gooozmen&repo=CourtBooker-Auth&theme=tokyonight)](https://github.com/Gooozmen/CourtBooker-Auth)
+[![dotnet-services](https://github-readme-stats.vercel.app/api/pin/?username=Gooozmen&repo=dotnet-services&theme=tokyonight)](https://github.com/Gooozmen/dotnet-services)
 
 ## 🌐 Contact
 - LinkedIn: [your-linkedin-url]
